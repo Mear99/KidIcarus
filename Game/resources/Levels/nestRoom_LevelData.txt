@@ -1,0 +1,51 @@
+<Enemies>
+{
+Type: Specknose
+Spawn: 32 150
+PatrolPoints: 32 150 60 200
+},
+{
+Type: Specknose
+Spawn: 42 42
+PatrolPoints: 42 42 50 75
+},
+{
+Type: Specknose
+Spawn: 80 80
+PatrolPoints: 80 80 150 20
+},
+{
+Type: Specknose
+Spawn: 100 230
+PatrolPoints: 100 40 100 230
+},
+{
+Type: Specknose
+Spawn: 40 75
+PatrolPoints: 40 75 175 95
+},
+{
+Type: Specknose
+Spawn: 80 75
+PatrolPoints: 80 75 90 50
+},
+{
+Type: Specknose
+Spawn: 20 200
+PatrolPoints: 20 160 220 160
+},
+{
+Type: Specknose
+Spawn: 180 30
+PatrolPoints: 180 30 220 90
+},
+</Enemies>
+
+
+<Doors>
+{
+Zone: 232 96 8 32
+ExitPoint: 18 1504
+Location: 1-1
+},
+</Doors>

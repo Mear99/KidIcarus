@@ -1,0 +1,42 @@
+<Items>
+{
+Type: Vase
+Spawn: 16 32
+},
+{
+Type: Vase
+Spawn: 16 80
+},
+{
+Type: Vase
+Spawn: 16 128
+},
+{
+Type: Vase
+Spawn: 16 176
+},
+{
+Type: Vase
+Spawn: 208 32
+},
+{
+Type: Vase
+Spawn: 112 80
+},
+{
+Type: Vase
+Spawn: 224 128
+},
+{
+Type: Vase
+Spawn: 224 176
+},
+</Items>
+
+<Doors>
+{
+Zone: 232 96 8 32
+ExitPoint: 150 1728
+Location: 1-1
+},
+</Doors>

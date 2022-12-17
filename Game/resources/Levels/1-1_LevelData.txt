@@ -1,0 +1,78 @@
+<Spawners>
+{
+SpawnPoint: 120 240
+Amount: 4
+EnemyType: Shemum
+Bounds: 0 0 240 480
+},
+{
+SpawnPoint: 0 240
+Amount: 4
+EnemyType: Monoeye
+Bounds: 0 500 240 1328
+},
+{
+SpawnPoint: 120 700
+Amount: 2
+EnemyType: Nettler
+Bounds: 0 2412 240 500
+},
+{
+SpawnPoint: 0 0
+Amount: 1
+EnemyType: McGoo
+Bounds: 0 2412 240 500
+},
+</Spawners>
+
+<Enemies>
+{
+Type: Reaper
+Spawn: 160 1520
+PatrolPoints: 128 1520 176 1520
+},
+{
+Type: Reaper
+Spawn: 144 1760
+PatrolPoints: 100  1760 150 1760
+},
+{
+Type: Reaper
+Spawn: 79 2288
+PatrolPoints: 48 2288 79 2288
+},
+{
+Type: Reaper
+Spawn: 160 2368
+PatrolPoints: 128 2368 176 2368
+}
+</Enemies>
+
+<Items>
+{
+Type: Harp
+Spawn: 185 870
+},
+{
+Type: Chalice
+Spawn: 144 1760
+}
+</Items>
+
+<Doors>
+{
+Zone: 232 288 8 32
+ExitPoint: 200 80
+Location: lavaRoom
+},
+{
+Zone: 56 1504 8 32
+ExitPoint: 200 80
+Location: nestRoom
+},
+{
+Zone: 184 1728 8 32
+ExitPoint: 200 80
+Location: treasureRoom
+},
+</Doors>
